@@ -1,0 +1,25 @@
+{
+  "name": "fantasyrally",
+  "version": "0.0.1",
+  "description": "fantasy baseball crawler application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djibba22/FantasyRally.git"
+  },
+  "keywords": [
+    "MEAN",
+    "fantasy",
+    "mongodb",
+    "baseball"
+  ],
+  "author": "John Dinsmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djibba22/FantasyRally/issues"
+  },
+  "homepage": "https://github.com/Djibba22/FantasyRally#readme"
+}
